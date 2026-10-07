@@ -453,7 +453,7 @@ const ekatio = {
 
 <p>If you are looking for someone who can move comfortably between code, data, and design, I would be glad to talk.</p>
 
-<a href="https://www.linkedin.com/in/eka-adit-prasetyo"><img src="https://img.shields.io/badge/LinkedIn-Eka_Adit_Prasetyo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/eka-adit-prasetyo-59964328a/"><img src="https://img.shields.io/badge/LinkedIn-Eka_Adit_Prasetyo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ekaaditprasetyo@gmail.com"><img src="https://img.shields.io/badge/Email-ekaaditprasetyo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/EkaAditPrasetyo"><img src="https://img.shields.io/badge/GitHub-EkaAditPrasetyo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
